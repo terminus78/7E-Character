@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">7E Character</string>
+    <string name="charName">Character Name</string>
+    <string name="occupation">Occupation</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="residence">Residence</string>
+    <string name="birthplace">Birthplace</string>
+    <string name="hp">HP</string>
+    <string name="sanity">Sanity</string>
+    <string name="luck">Luck</string>
+    <string name="tempInsanity">Temp Ins</string>
+    <string name="indInsanity">Ind Ins</string>
+    <string name="permInsanity">Perm Ins</string>
+    <string name="imgDesc">Character Image</string>
 </resources>
